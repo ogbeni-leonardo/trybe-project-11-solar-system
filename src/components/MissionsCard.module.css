@@ -1,24 +1,23 @@
-[data-testid='mission-card'] {
+[ data-testid = 'mission-card' ] {
   background-color: #21212180;
-  padding: 15px;
+  cursor: pointer;
   min-width: 150px;
   opacity: 0.8;
+  padding: 15px;
   text-align: left;
-  cursor: pointer;
 }
 
-[data-testid='mission-name'] {
+[ data-testid = 'mission-name' ] {
   font-size: 1.3rem;
-  text-transform: uppercase;
   margin-bottom: 15px;
   text-align: center;
+  text-transform: uppercase;
 }
 
-[data-testid='mission-year'],
-[data-testid='mission-country'] {
+[ data-testid = 'mission-year' ], [ data-testid = 'mission-country' ] {
   margin-bottom: 10px;
 }
 
-[data-testid='mission-card']:hover {
+[ data-testid = 'mission-card' ]:hover {
   opacity: 1;
 }

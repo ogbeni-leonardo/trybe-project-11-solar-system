@@ -1,10 +1,10 @@
-[data-testid='planet-card'] {
+[ data-testid = 'planet-card' ] {
+  align-items: center;
+  cursor: pointer;
   display: flex;
   flex-direction: column-reverse;
-  align-items: center;
   justify-content: center;
   padding: 10px;
-  cursor: pointer;
   transition: 300ms;
 }
 
@@ -16,6 +16,6 @@
   width: 100px;
 }
 
-[data-testid='planet-card']:hover {
+[ data-testid = 'planet-card' ]:hover {
   transform: scale(1.5);
 }
