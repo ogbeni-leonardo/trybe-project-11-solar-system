@@ -8,7 +8,7 @@ Este projeto consiste em um modelo do sistema solar em conjunto com alguns dados
 
 ## Requisitos
 
-Para fazer uso desta aplicação é necessário ter o `nodejs` instalado na sua máquina.
+Para fazer uso desta aplicação é necessário ter o `nodejs (v16)` instalado na sua máquina.
 
 ## Uso
 
